@@ -148,7 +148,7 @@ Para verificar se o docker subiu corretamente, realizar a conexão com o banco:
 
   ![image][inst-8]
 
-  
+
 
 [demo-funcionamento]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/ff8a8321-842c-4cd1-be5f-c2c4c912338e
 [link-api]: https://github.com/caio01/CadastroPessoa-JSF-API-Docker/tree/main/CadastroPessoaAPI
@@ -174,7 +174,7 @@ Para verificar se o docker subiu corretamente, realizar a conexão com o banco:
 [inst-5]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/f21d8273-9a78-4931-a211-9ad6ee9415ee
 [inst-6]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/1f839881-f2b9-4486-aabf-6c2552b1fd51
 [inst-7]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/63453a59-07a2-489f-907b-31449e890c57
-[inst-8]: https://github.com/caio01/CadastroPessoa-JSF-API-Docker/assets/49879702/87461422-5363-46c1-a6b8-ff9477f4c3ab
+[inst-8]: https://github.com/caio01/CadastroPessoa-JSF-API-Docker/assets/49879702/b4308eb0-9e84-4e32-9606-cab0e193f3c4
 [inst-9]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/5a76cadc-0697-4fdd-ac37-97b21ebacf01
 [inst-10]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/dd593fbe-5dd6-4e35-990a-57c6e2097a61
 [inst-11]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/06cc685a-e68c-4e67-9041-2aa5fdd21e98
